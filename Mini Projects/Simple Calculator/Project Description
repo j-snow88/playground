@@ -1,0 +1,8 @@
+OBJECTIVE: 
+Create a simple calculator that performs basic arithmetic operations like addition, subtraction, multiplication, and division.
+
+DESCRIPTION: 
+This program allows the user to input two numbers and choose an arithmetic operation. Based on the choice, the program performs the selected operation and display the result.
+
+CONCEPTS: 
+Variables, Arithmetic Operations, Switch Case, User Input/Output
